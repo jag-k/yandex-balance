@@ -1,0 +1,9 @@
+{
+  "always_run_in_app": false,
+  "icon": {
+    "color": "yellow",
+    "glyph": "utensils"
+  },
+  "name": "Yandex Balance Badge",
+  "share_sheet_inputs": []
+}
